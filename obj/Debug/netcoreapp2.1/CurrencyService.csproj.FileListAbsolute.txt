@@ -1,0 +1,16 @@
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\CurrencyService\bin\Debug\netcoreapp2.1\CurrencyService.deps.json
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\CurrencyService\bin\Debug\netcoreapp2.1\CurrencyService.runtimeconfig.json
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\CurrencyService\bin\Debug\netcoreapp2.1\CurrencyService.runtimeconfig.dev.json
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\CurrencyService\bin\Debug\netcoreapp2.1\CurrencyService.dll
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\CurrencyService\bin\Debug\netcoreapp2.1\CurrencyService.pdb
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\CurrencyService\obj\Debug\netcoreapp2.1\CurrencyService.csprojAssemblyReference.cache
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\CurrencyService\obj\Debug\netcoreapp2.1\CurrencyService.RazorAssemblyInfo.cache
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\CurrencyService\obj\Debug\netcoreapp2.1\CurrencyService.RazorAssemblyInfo.cs
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\CurrencyService\obj\Debug\netcoreapp2.1\CurrencyService.AssemblyInfoInputs.cache
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\CurrencyService\obj\Debug\netcoreapp2.1\CurrencyService.AssemblyInfo.cs
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\CurrencyService\obj\Debug\netcoreapp2.1\CurrencyService.RazorTargetAssemblyInfo.cache
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\CurrencyService\obj\Debug\netcoreapp2.1\CurrencyService.dll
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\CurrencyService\obj\Debug\netcoreapp2.1\CurrencyService.pdb
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\CurrencyService\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\CurrencyService\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\CurrencyService\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
